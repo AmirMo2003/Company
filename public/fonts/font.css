@@ -1,0 +1,16 @@
+/* tanha font */
+
+@font-face {
+    font-family: "tanha";
+    src: url("./Tanha.ttf"), format("ttf");
+    src: url("./Tanha.eot"), format("eot");
+    src: url("./Tanha.woff"), format("woff");
+    src: url("./Tanha.woff2"), format("woff2");
+}
+
+
+@font-face {
+    font-family: "Vazir";
+    src: url("./Vazir.ttf"), format("ttf");
+    color: #00000098;
+}
